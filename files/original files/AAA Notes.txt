@@ -1,0 +1,1 @@
+"Original files" happens when uhh.. the thing is the text stored on `files/` are set up in a way convenient for the reader. which may include but not limited to: transcription; transliterations; translations.
