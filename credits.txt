@@ -26,6 +26,8 @@ ninelie:
 https://genius.com/Genius-romanizations-aimer-ninelie-feat-chelly-from-egoist-romanized-lyrics
 musixmatch
 
+from this point onwards i figured out obtaining sources from kugou API doesn't haev to cite the whole thing. this saves time, sorry for your convenience.
+
 love is gone:
 musixmatch, KuGou.
 
@@ -33,6 +35,9 @@ grain in ear/芒种:
 KuGou
 
 calma:
+KuGou
+
+imsomnia flight/失眠飞行:
 KuGou
 
 will add more when needed
