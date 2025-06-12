@@ -40,4 +40,10 @@ KuGou
 imsomnia flight/失眠飞行:
 KuGou
 
+faded:
+KuGou
+
+a thousand years:
+KuGou
+
 will add more when needed
