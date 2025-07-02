@@ -1,1 +1,6 @@
-"Original files" happens when uhh.. the thing is the text stored on `files/` are set up in a way convenient for the reader. which may include but not limited to: transcription; transliterations; translations.
+Notes:
+the directory `files/original files/` hosts the original, non-ASCII files. for example, auditory waves which it's transcription contains or is built mostly from CJKV characters.
+currently, it includes but not limited to: Japanese, Chinese.
+this directory can host other language which doesn't primarily rely on printable ASCII characters. it's just that, currently, there are only original chinese and japanese transcriptions.
+
+files stored on "files/" is for transcriptions that are originally already ASCII, and for files which includes translation and transliteration from the said transcription of the original text.
