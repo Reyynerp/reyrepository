@@ -26,58 +26,73 @@ ninelie:
 https://genius.com/Genius-romanizations-aimer-ninelie-feat-chelly-from-egoist-romanized-lyrics
 musixmatch
 
-from this point onwards i figured out obtaining sources from kugou API doesn't haev to cite the whole thing. this saves time, sorry for your convenience.
+from this point onwards i figured out obtaining sources from kugou API doesn't have to cite the whole thing. this saves time, sorry for your convenience.
 
 love is gone:
-musixmatch, KuGou.
+musixmatch, 酷狗音乐.
 
-grain in ear/芒种:
-KuGou
+芒种:
+酷狗音乐
 
 calma:
-KuGou
+酷狗音乐
 
-imsomnia flight/失眠飞行:
-KuGou
+失眠飞行:
+酷狗音乐
 
 faded:
-KuGou
+酷狗音乐
 
 a thousand years:
-KuGou
+酷狗音乐
 
 echame la culpa:
-KuGou
+酷狗音乐
 
 berlari tanpa kaki:
-KuGou
+酷狗音乐
 
 sail over seven seas:
-KuGou
+酷狗音乐
 
 all about us:
-KuGou
+酷狗音乐
 
-compulsive bomber:
-KuGou, Genius
+爆弾魔:
+酷狗音乐, Genius
 
 until i found you:
-KuGou
+酷狗音乐
 
 mardua holong:
-KuGou
+酷狗音乐
 
 dusk till dawn:
-KuGou
+酷狗音乐
 
 "qqqs jp en zh (cover)"
 self-written
 
 cinta dan permata:
-KuGou
+酷狗音乐
+
+re:pray:
+酷狗音乐
+
+ref:rain
+musixmatch
+酷狗音乐
+
+turn it up:
+musixmatch
+
+一剪梅:
+酷狗音乐
 
 窃窃:
-extracted from https://www.youtube.com/watch?v=lB4BRF72nfk
+extracted from `https://www.youtube.com/watch?v=lB4BRF72nfk`'s subtitle
 
+双眼:
+网易云音乐
 
 will add more when needed
